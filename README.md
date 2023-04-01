@@ -1,2 +1,2 @@
-# List-nested-table-unlimited-categories-
+# MYSQL list-nested-table-unlimited-categories-
 List nested table (unlimited categories) with php function.
